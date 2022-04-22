@@ -159,5 +159,8 @@ public class TC_1 extends base{
 	public void demo() {
 		System.out.println("anu");
 	}
+	public void demo1() {
+		System.out.println("vk");
+	}
 	
 }
