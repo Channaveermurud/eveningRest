@@ -165,5 +165,9 @@ public class TC_1 extends base{
 	public void demo3() {
 		System.out.println("dev");
 	}
+	public void demo4() {
+		System.out.println("ind dev");
+	}
+	
 	
 }
