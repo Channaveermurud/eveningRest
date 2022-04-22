@@ -156,5 +156,8 @@ public class TC_1 extends base{
 			fn=Js.get("firstname");
 			Assert.assertTrue(fn.equalsIgnoreCase("Sallyy")); */
 	}
+	public void demo() {
+		System.out.println("anu");
+	}
 	
 }
